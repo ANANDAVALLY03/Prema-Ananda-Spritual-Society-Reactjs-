@@ -1,0 +1,14 @@
+/* src/index.css or src/App.css */
+
+:root {
+  --primary-color: #3498db; /* Blue color */
+  --secondary-color: #2ecc71; /* Green color */
+  --background-color: #f0f0f0; /* Light grey */
+  --text-color: #333; /* Dark grey for text */
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  font-family: Arial, sans-serif;
+}

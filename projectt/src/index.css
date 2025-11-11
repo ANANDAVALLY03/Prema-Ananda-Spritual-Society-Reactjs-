@@ -1,0 +1,14 @@
+/* src/index.css */
+
+:root {
+  --primary-color: rgb(0, 105, 148);  /* Define your root primary color */
+  --hover-color: rgb(192, 192, 192);  /* Define hover color */
+  --text-color: #fff;                  /* Default text color */
+}
+
+/* Optional: Set body background and other styles */
+body {
+  background-color: #f0f0f0;  /* Light background color for the app */
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
